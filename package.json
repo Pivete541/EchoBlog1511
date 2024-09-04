@@ -1,0 +1,31 @@
+{
+  "name": "echoblog1511",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000c\u0000h\u0000o\u0000B\u0000l\u0000o\u0000g\u00001\u00005\u00001\u00001\u0000\r\u0000 \u0000",
+  "main": "./backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pivete541/EchoBlog1511.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pivete541/EchoBlog1511/issues"
+  },
+  "homepage": "https://github.com/Pivete541/EchoBlog1511#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "zod": "^3.23.8"
+  }
+}
